@@ -111,7 +111,7 @@ I enjoy turning ideas into practical digital products.
 
 <p>
   <a href="https://github.com/nicodilshan">GitHub</a> •
-  <a href="www.linkedin.com/in/ndilshan/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ndilshan/">LinkedIn</a> •
   Portfolio (coming soon)
 </p>
 
